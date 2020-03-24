@@ -89,9 +89,7 @@ class Home extends StatelessWidget {
                 alignment: Alignment(0, 0),
                 margin: EdgeInsets.all(9.0),
                 decoration: new BoxDecoration(
-                  borderRadius: BorderRadius.only(
-                      bottomRight: Radius.circular(20),
-                      bottomLeft: Radius.circular(20)),
+                  borderRadius: BorderRadius.circular(20.0),
                   color: Colors.white,
                   boxShadow: [
                     BoxShadow(
