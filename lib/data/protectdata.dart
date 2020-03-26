@@ -10,6 +10,8 @@ List<Symptomdata> symptomDatas = [
       "លាងដៃនឹងសាប៊ូ ឬ អាកុលអោយញឹកញាប់", "images/washhand.png", "Colors.blue"),
   Symptomdata("ជៀសវាងទៅកាន់កន្លែងដែលមានមនុស្សច្រើន", "images/spread.png",
       "Colors.blue"),
+  Symptomdata("ផឹកទឹកក្តៅល្មមអោយបានញឹកញាប់", "images/water.png", "Colors.blue"),
+  Symptomdata("ពាក់ម៉ាសពេលនៅកន្លែងសាធារណ", "images/protect.png", "Colors.blue"),
   Symptomdata(
       "នៅឃ្លាតឆ្ងាយពីគ្នាយ៉ាងតិច1ម៉ែត្រ", "images/far.png", "Colors.blue"),
   Symptomdata("ដាក់ខ្លួនឯងអោយឆ្ងាយពីគេរយពេល14ថ្ងៃពេលទើបត្រឡប់ពីបរទេស",

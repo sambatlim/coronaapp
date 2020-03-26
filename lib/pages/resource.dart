@@ -42,7 +42,7 @@ class Resource extends StatelessWidget {
                   Container(
                     padding: EdgeInsets.all(9),
                     child: Text(
-                      ' ${symptomDatas[index].title}',
+                      '${symptomDatas[index].title}',
                       style: new TextStyle(fontSize: 20, color: Colors.white),
                     ),
                     decoration: new BoxDecoration(color: barcolor),
