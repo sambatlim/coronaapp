@@ -1,4 +1,4 @@
-import 'package:corona/pages/homepage.dart';
+import 'package:cvinfo/pages/homepage.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());

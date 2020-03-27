@@ -1,4 +1,4 @@
-import 'package:corona/data/aboutdeveloperdata.dart';
+import 'package:cvinfo/data/aboutdeveloperdata.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 

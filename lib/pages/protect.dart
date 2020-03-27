@@ -1,4 +1,4 @@
-import 'package:corona/data/protectdata.dart';
+import 'package:cvinfo/data/protectdata.dart';
 import 'package:flutter/material.dart';
 
 class Protect extends StatelessWidget {

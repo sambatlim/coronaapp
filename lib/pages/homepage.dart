@@ -1,8 +1,8 @@
-import 'package:corona/pages/aboutapp.dart';
-import 'package:corona/pages/protect.dart';
-import 'package:corona/pages/resource.dart';
-import 'package:corona/pages/spread.dart';
-import 'package:corona/pages/symptom.dart';
+import 'package:cvinfo/pages/aboutapp.dart';
+import 'package:cvinfo/pages/protect.dart';
+import 'package:cvinfo/pages/resource.dart';
+import 'package:cvinfo/pages/spread.dart';
+import 'package:cvinfo/pages/symptom.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatelessWidget {

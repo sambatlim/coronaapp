@@ -1,4 +1,4 @@
-import 'package:corona/data/spreaddata.dart';
+import 'package:cvinfo/data/spreaddata.dart';
 import 'package:flutter/material.dart';
 
 class Spread extends StatelessWidget {
